@@ -1,0 +1,198 @@
+solid model
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 25.0 25.0
+vertex 0.0 0.0 0.0
+vertex 0.0 0.0 25.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 0.0 25.0 25.0
+vertex 0.0 25.0 0.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 0.0 0.0 25.0
+vertex 3.0 3.0 25.0
+vertex 0.0 25.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 3.0 3.0 25.0
+vertex 0.0 0.0 25.0
+vertex 25.0 0.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 3.0 3.0 25.0
+vertex 25.0 0.0 25.0
+vertex 22.0 3.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 22.0 3.0 25.0
+vertex 25.0 0.0 25.0
+vertex 22.0 22.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 0.0 25.0 25.0
+vertex 3.0 22.0 25.0
+vertex 25.0 25.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 3.0 22.0 25.0
+vertex 0.0 25.0 25.0
+vertex 3.0 3.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 25.0 25.0 25.0
+vertex 3.0 22.0 25.0
+vertex 22.0 22.0 25.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 25.0 25.0 25.0
+vertex 22.0 22.0 25.0
+vertex 25.0 0.0 25.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 25.0 25.0 0.0
+vertex 0.0 0.0 0.0
+vertex 0.0 25.0 0.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 25.0 25.0 0.0
+vertex 25.0 0.0 0.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 3.0 22.0 3.0
+vertex 3.0 3.0 25.0
+vertex 3.0 3.0 3.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 3.0 3.0 25.0
+vertex 3.0 22.0 3.0
+vertex 3.0 22.0 25.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 22.0 3.0 3.0
+vertex 3.0 22.0 3.0
+vertex 3.0 3.0 3.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 3.0 22.0 3.0
+vertex 22.0 3.0 3.0
+vertex 22.0 22.0 3.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 22.0 22.0 25.0
+vertex 3.0 22.0 3.0
+vertex 22.0 22.0 3.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 3.0 22.0 3.0
+vertex 22.0 22.0 25.0
+vertex 3.0 22.0 25.0
+endloop
+endfacet
+facet normal -1.0 0.0 -0.0
+outer loop
+vertex 22.0 22.0 25.0
+vertex 22.0 3.0 3.0
+vertex 22.0 3.0 25.0
+endloop
+endfacet
+facet normal -1.0 0.0 -0.0
+outer loop
+vertex 22.0 3.0 3.0
+vertex 22.0 22.0 25.0
+vertex 22.0 22.0 3.0
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 3.0 3.0 25.0
+vertex 22.0 3.0 3.0
+vertex 3.0 3.0 3.0
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 22.0 3.0 3.0
+vertex 3.0 3.0 25.0
+vertex 22.0 3.0 25.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 25.0 25.0 0.0
+vertex 25.0 0.0 25.0
+vertex 25.0 0.0 0.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 25.0 0.0 25.0
+vertex 25.0 25.0 0.0
+vertex 25.0 25.0 25.0
+endloop
+endfacet
+facet normal -0.0 1.0 0.0
+outer loop
+vertex 0.0 25.0 25.0
+vertex 25.0 25.0 0.0
+vertex 0.0 25.0 0.0
+endloop
+endfacet
+facet normal -0.0 1.0 0.0
+outer loop
+vertex 25.0 25.0 0.0
+vertex 0.0 25.0 25.0
+vertex 25.0 25.0 25.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 25.0 0.0 25.0
+vertex 0.0 0.0 0.0
+vertex 25.0 0.0 0.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 25.0 0.0 25.0
+vertex 0.0 0.0 25.0
+endloop
+endfacet
+endsolid model

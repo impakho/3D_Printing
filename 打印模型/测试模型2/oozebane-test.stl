@@ -1,0 +1,198 @@
+solid model
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 10.0 30.0 0.0
+vertex 0.0 0.0 0.0
+vertex 0.0 30.0 0.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 10.0 30.0 0.0
+vertex 10.0 0.0 0.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 10.0 0.0 7.0
+vertex 0.0 0.0 0.0
+vertex 10.0 0.0 0.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 10.0 0.0 7.0
+vertex 0.0 0.0 7.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 30.0 7.0
+vertex 0.0 25.0 2
+vertex 0.0 25.0 7.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 5 7.0
+vertex 0.0 0.0 0.0
+vertex 0.0 0.0 7.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 0.0 5 7.0
+vertex 0.0 5 2
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 0.0 0.0
+vertex 0.0 5 2
+vertex 0.0 30.0 0.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 30.0 0.0
+vertex 0.0 5 2
+vertex 0.0 25.0 2
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex 0.0 30.0 0.0
+vertex 0.0 25.0 2
+vertex 0.0 30.0 7.0
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 0.0 30.0 7.0
+vertex 10.0 30.0 0.0
+vertex 0.0 30.0 0.0
+endloop
+endfacet
+facet normal 0.0 1.0 0.0
+outer loop
+vertex 10.0 30.0 0.0
+vertex 0.0 30.0 7.0
+vertex 10.0 30.0 7.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 0.0 0.0
+vertex 10.0 5.0 2
+vertex 10.0 0.0 7.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 5.0 2
+vertex 10.0 0.0 0.0
+vertex 10.0 30.0 0.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 5.0 2
+vertex 10.0 30.0 0.0
+vertex 10.0 25.0 2
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 25.0 2
+vertex 10.0 30.0 0.0
+vertex 10.0 25.0 7.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 25.0 7.0
+vertex 10.0 30.0 0.0
+vertex 10.0 30.0 7.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 10.0 5.0 7.0
+vertex 10.0 0.0 7.0
+vertex 10.0 5.0 2
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 10.0 5.0 2
+vertex 0.0 25.0 2
+vertex 0.0 5 2
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 0.0 25.0 2
+vertex 10.0 5.0 2
+vertex 10.0 25.0 2
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 10.0 0.0 7.0
+vertex 0.0 5 7.0
+vertex 0.0 0.0 7.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 0.0 5 7.0
+vertex 10.0 0.0 7.0
+vertex 10.0 5.0 7.0
+endloop
+endfacet
+facet normal -7.04991620636974e-017 1.0 0.0
+outer loop
+vertex 0.0 5 7.0
+vertex 10.0 5.0 2
+vertex 0.0 5 2
+endloop
+endfacet
+facet normal -7.04991620636974e-017 1.0 0.0
+outer loop
+vertex 10.0 5.0 2
+vertex 0.0 5 7.0
+vertex 10.0 5.0 7.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 10.0 25.0 7.0
+vertex 0.0 30.0 7.0
+vertex 0.0 25.0 7.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 0.0 30.0 7.0
+vertex 10.0 25.0 7.0
+vertex 10.0 30.0 7.0
+endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+outer loop
+vertex 10.0 25.0 7.0
+vertex 0.0 25.0 2
+vertex 10.0 25.0 2
+endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+outer loop
+vertex 0.0 25.0 2
+vertex 10.0 25.0 7.0
+vertex 0.0 25.0 7.0
+endloop
+endfacet
+endsolid model
